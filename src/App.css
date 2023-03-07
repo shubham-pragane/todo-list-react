@@ -1,0 +1,50 @@
+body {
+  /* background-color: rgb(195, 131, 235); */
+  background-image: url(https://www.mksguide.com/wp-content/uploads/2022/05/mountains-1412683-1024x512.webp); 
+  background-size: contain;
+  background-repeat: repeat;
+  height: 673.5px;
+  
+}
+
+.App {
+  /* background-color: #3f3160; */
+  background: rgb(231, 204, 183);
+  background: radial-gradient(circle, rgba(231, 204, 183, 1) 18%, rgba(226, 216, 159, 1) 91%);
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  border-radius: 15px;
+  box-shadow: 5px 8px sandybrown;
+}
+
+#to-do-form input {
+  background-color: rgb(241, 246, 247);
+  border: 0;
+  outline: none;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: black;
+  box-shadow:3px 5px darkgoldenrod;
+}
+
+#to-do-form input::placeholder {
+  color: rgba(255, 255, 255, 0-5);
+}
+
+#to-do-form button {
+  height: 50px;
+  width: 80px;
+  border-radius: 10px;
+  border: 0px;
+  background-color: rgb(195, 110, 155);
+  cursor: pointer;
+  font-weight: bolder;
+  font-size: large;
+  color: white;
+  box-shadow:3px 5px rgb(159, 60, 149);
+} 
