@@ -19,5 +19,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 ### Preview 
-<img src="preview-todo-list-react">
+<img src="preview-todo-list-react.png">
 
